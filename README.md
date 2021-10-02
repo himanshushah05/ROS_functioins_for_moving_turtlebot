@@ -1,2 +1,2 @@
-# ROS_functioins_for_moving_turtlebot
-Various functions to control the turtlebot 
+# ROS_functioins_for_moving_turtlesim
+Various functions to control the turtlesim
